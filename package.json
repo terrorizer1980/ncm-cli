@@ -44,7 +44,7 @@
     "client-request": "^2.3.0",
     "configstore": "^5.0.1",
     "cross-spawn": "^7.0.3",
-    "debug": "^4.3.1",
+    "debug": "^4.3.3",
     "events.once": "^2.0.2",
     "minimist": "^1.2.5",
     "p-defer": "^3.0.0",
