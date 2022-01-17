@@ -39,7 +39,7 @@
   "dependencies": {
     "@actions/core": "^1.2.3",
     "@actions/github": "^2.1.1",
-    "@octokit/rest": "^17.3.0",
+    "@octokit/rest": "^17.11.2",
     "chalk": "^4.0.0",
     "client-request": "^2.3.0",
     "configstore": "^5.0.1",
