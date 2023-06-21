@@ -52,9 +52,9 @@
     "proxy-from-env": "^1.1.0",
     "rc": "^1.2.8",
     "rimraf": "^3.0.2",
-    "semver": "^7.3.4",
+    "semver": "^7.5.2",
     "universal-module-tree": "^4.0.0",
-    "update-notifier": "^4.1.0"
+    "update-notifier": "^6.0.0"
   },
   "devDependencies": {
     "dependency-check": "^4.1.0",
